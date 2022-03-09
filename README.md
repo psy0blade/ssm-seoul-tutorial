@@ -1,2 +1,1 @@
-# ssm-seoul-tutorial
-> ssm seoul tutorial repository
+hello world
