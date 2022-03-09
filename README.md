@@ -1,2 +1,2 @@
 # ssm-seoul-tutorial
-ssm seoul tutorial repository
+> ssm seoul tutorial repository
